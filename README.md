@@ -210,7 +210,6 @@ The repository contains:
 ## 11. Tools Used
 
 - ChatGPT / AI language model
-- Google Docs / MS Word
 - GitHub
 - Social media content strategy frameworks
 
